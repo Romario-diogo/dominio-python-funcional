@@ -120,8 +120,4 @@ Cada item descrito aqui é uma **função embutida (builtin)**, **expressão fun
 
 ---
 
-> 💡 Este roteiro é incremental e pensado para praticar com exemplos reais. Siga fase por fase, aplicando os conceitos em projetos próprios.
 
----
-
-📌 Repositório mantido por **Romário** – Desenvolvedor Python focado em automação, IA e análise de dados.
